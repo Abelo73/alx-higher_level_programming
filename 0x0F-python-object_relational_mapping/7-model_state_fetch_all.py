@@ -24,3 +24,4 @@ if __name__ == '__main__':
         print(row.id, end="")
         print(': ', end="")
         print(row.name)
+
